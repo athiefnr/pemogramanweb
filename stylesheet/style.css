@@ -60,6 +60,29 @@ li{
     padding-top: 10px;
 }
 
+.contact-form input{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20x;
+    font-size: 18px;
+    border: 1px solid gray;
+}
+
+.contact-form textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20x;
+    font-size: 18px;
+    border: 1px solid gray;
+}
+
+.contact-submit{
+    background: gray;
+    color: rgb(85, 83, 83);
+}
+
 .footer{
     background-color:#2f5167;
     color: #fff;
